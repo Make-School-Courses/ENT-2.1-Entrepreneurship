@@ -38,8 +38,7 @@ Students by the end of the course will be able to ...
 |  1 |  Lesson 1                         | Introduction to Lean Startup & Elevator Pitches |
 |  2 |  Lesson 2     | Elevator Pitches & Business Model Canvas |
 |  3 |  Lesson 3    | Develop RATs |
-|  4 |  Lesson 4                     | User Interviewing & Role Play
- |
+|  4 |  Lesson 4                     | User Interviewing & Role Play|
 |  5 |  Lesson 5                        | User Interviewing (Lab) |
 |  6 |  Lesson 6                     | User Interviewing (Lab) |
 |  7 |  Lesson 7                        | Marketing Funnel: The Funnel |
