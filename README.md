@@ -53,6 +53,7 @@ Students by the end of the course will be able to ...
 | 13 |  Tue, July 13        | Intro to Investment & Term Sheets |
 | 14 |  Thu, July 15        | Presentations/Unconference |
 
+See more here: [make.sc/ent](make.sc/ent)
 
 ## Class Assignments
 - Invalidate at least one business idea and pivot at least once
