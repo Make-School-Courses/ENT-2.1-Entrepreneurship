@@ -24,53 +24,51 @@ Class Sessions:  14 classes, 7 labs
 Students by the end of the course will be able to ...
 
 1. Use the business model canvas to layout an initial business idea
-1. Position a product relative to direct and indirect competitors
-1. Develop an elevator pitch
-1. Design and execute experiments to test your riskiest assumptions - aka RATs (Riskiest Assumption Tests)
 1. Plan and conduct validation-focused user interviews
+3. Develop an elevator pitch
+5. List common business models and use financial modeling and unit economics to apply the optimal business model to a specific product idea.
+6. Utilize various marketing strategies such as brand building, copy writing, and SEO. 
+
 
 ## Schedule
 
-**Course Dates:** TBD
+**Course Dates:** Tuesday, June 1 – Thursday, July 15, 2021 (7 weeks)
+
+**Class Times:** Tuesday, Thursday at 2:30pm–4:00pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Lesson 1                         | Introduction to Lean Startup & Elevator Pitches |
-|  2 |  Lesson 2     | Elevator Pitches & Business Model Canvas |
-|  3 |  Lesson 3    | Develop RATs |
-|  4 |  Lesson 4                     | User Interviewing & Role Play|
-|  5 |  Lesson 5                        | User Interviewing (Lab) |
-|  6 |  Lesson 6                     | User Interviewing (Lab) |
-|  7 |  Lesson 7                        | Marketing Funnel: The Funnel |
-|  8 |  Lesson 8                     | Marketing Funnel: Conversion Rate |
-|  9 |  Lesson 9                        | How to Design a Campaign |
-| 10 |  Lesson 10                        | User Interviews & Growth Campaigns |
-| 11 |  Lesson 11                           | User Interviews & Growth Campaigns |  
-| 12 |  Lesson 12                   | Final Exams/Presentations |
+|  1 |  Tue, June 1         | Bulk Business Ideation |
+|  2 |  Thu, June 3         | It's a F' Yes or a No: Validation |
+|  3 |  Tue, June 8         | User Interviewing Review/Lab |
+|  4 |  Thu, June 10        | Using the Business Model Canvas |
+|  5 |  Tue, June 15        | Business Models & Intro to Copy Writing |
+|  6 |  Thu, June 17        | Why someone is RIGHT when they don't buy your product |
+|  7 |  Tue, June 22        | Marketing Funnels |
+|  8 |  Thu, June 24        | Marketing Campaign Work day |
+|  9 |  Tue, June 29        | Financial Modeling & Unit Economics |
+| 10 |  Thu, July 1         | Sales, Sales, Sales |
+| 11 |  Tue, July 6         | Pitch Deck Review |
+| 12 |  Thu, July 8         | 3 Economic Theories of Entrepreneurship |
+| 13 |  Tue, July 13        | Intro to Investment & Term Sheets |
+| 14 |  Thu, July 15        | Presentations/Unconference |
 
 
 ## Class Assignments
 - Invalidate at least one business idea and pivot at least once
 - Plan and conduct at least 5 formal user interviews
 - Build a Landing Page
-- Conduct at least 3 growth campaigns
-- Complete a Product Write Up 4-6 pages / 1000-1500 words that tells the story of your product. It must include:
- - What idea(s) you started with
- - Your original elevator pitch
- - Your original RATs
- - Descriptions of each user interview you did
- - Any discoveries and pivots you made
- - A link to your landing page
- - The outcomes of your growth campaigns
- - What you would do with more time
+- Design at least 3 growth campaigns
+- Build a simple financial model in spreadsheet
+- Design a simple sales script
+- Make a pitch deck for your product
+- Complete 1 topical blogpost on a topic inside of entrepreneurship of your choice
 
 ## Evaluation
 To pass this course you must meet the following requirements:
 
 - Complete all required assignments
-- Pass all projects according to the associated project rubric
- - Product Write Up
-- Pass the final summative assessment >=75%
+- Complete all projects
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
