@@ -39,7 +39,7 @@ Students by the end of the course will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, June 1         | Bulk Business Ideation |
-|  2 |  Thu, June 3         | It's a F' Yes or a No: Validation |
+|  2 |  Thu, June 3         | It's an F' Yes or a No: Validation |
 |  3 |  Tue, June 8         | User Interviewing Review/Lab |
 |  4 |  Thu, June 10        | Using the Business Model Canvas |
 |  5 |  Tue, June 15        | Business Models & Intro to Copy Writing |
